@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Sefi-Crypto/static/css/main.9147cf71.css",
+    "main.js": "/Sefi-Crypto/static/js/main.b4f1ac3b.js",
+    "static/media/hero-img.png": "/Sefi-Crypto/static/media/hero-img.66b9eb77caa3ac6d4fe8.png",
+    "index.html": "/Sefi-Crypto/index.html",
+    "main.9147cf71.css.map": "/Sefi-Crypto/static/css/main.9147cf71.css.map",
+    "main.b4f1ac3b.js.map": "/Sefi-Crypto/static/js/main.b4f1ac3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9147cf71.css",
+    "static/js/main.b4f1ac3b.js"
+  ]
+}
