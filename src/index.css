@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300&display=swap');
+
+*{
+  margin: 0 ;
+  padding: 0;
+  box-sizing: border-box;
+  }
+  
+
+html{
+
+  font-size: 62.5%;
+}
+
+body {
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI','Poppins', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+h1{
+  font-size: 4rem;
+}
+
+:root{
+  
+  --primary: palevioletred;
+  --background:#f5f8ff;
+  --padding:1.5rem 11rem 1.5rem 11rem;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+
+ul{
+  
+  display: flex;
+  list-style: none;
+  font-size: 1.9rem;
+}
+
+li{
+  margin: 1rem;
+  
+  
+  
+}
+
+p{
+  font-size: 1.2rem;
+}
+
+
+
